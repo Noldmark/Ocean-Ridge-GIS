@@ -1,0 +1,1 @@
+var json_KDC_Facility_Subassets_27 = {"type":"FeatureCollection","name":"KDC_Facility_Subassets_27","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
